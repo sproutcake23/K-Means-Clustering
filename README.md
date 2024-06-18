@@ -18,12 +18,12 @@ The code performs k-means clustering on the Iris dataset, visualizes the cluster
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/pratirath06/KNN-Clustering.git
+    git clone https://github.com/pratirath06/K-Means-Clustering.git
     ```
 
 2. Navigate to the directory:
     ```bash
-    cd KNN-Clustering
+    cd K-Means-Clustering
     ```
 
 3. Run the Python script:
