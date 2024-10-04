@@ -15,18 +15,22 @@ The code performs k-means clustering on the Iris dataset, visualizes the cluster
 - scikit-learn
 
 ## Usage
+0. Download the dependencies
+    ```bash
+    pip install -r requirements.txt
+    ```
 
-1. Clone the repository:
+2. Clone the repository:
     ```bash
     git clone https://github.com/pratirath06/K-Means-Clustering.git
     ```
 
-2. Navigate to the directory:
+3. Navigate to the directory:
     ```bash
     cd K-Means-Clustering
     ```
 
-3. Run the Python script:
+4. Run the Python script:
     ```bash
     python K-Means-Clustering.ipynb
     ```
